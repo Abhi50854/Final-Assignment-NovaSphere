@@ -59,12 +59,6 @@ NovaSphere/
 The website is deployed on:
 - **Netlify**: [[https://nova-sphere.netlify.app](https://final-assignment-novasphere.netlify.app/)](#)
 - **Vercel**: [[https://nova-sphere.vercel.app](https://final-assignment-nova-sphere.vercel.app/)](#)
-
-### Deployment Steps
-1. Push the project to a GitHub repository.  
-2. Use GitHub Pages, Netlify, or Vercel to deploy (static site, no build needed).  
-3. Ensure relative paths for CSS/JS are correct.
-
 ---
 
 ## 🌟 Credits
